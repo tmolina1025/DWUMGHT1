@@ -1,0 +1,107 @@
+<html lang="en">
+ 
+<head>
+	<title>CV Antonio Molina 2023</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="resume.css">
+</head>
+ 
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src=
+"https://scontent.faqb1-2.fna.fbcdn.net/v/t1.6435-9/92828409_970688333348965_1745357074235129856_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=n-kJnZUzuMkAX9cuei7&_nc_ht=scontent.faqb1-2.fna&oh=00_AfD3jfGYWdAAkOppowB9n3tQc1wm7wBq43Qic5KWy1SnbA&oe=64E297DE"
+                     style="width:100px;height:100px;">
+            </div>
+            <div class="Contact">
+                <h1>Antonio Rafael Molina Ramírez</h1>
+		<div class="Summary">
+                <p>Soy un profesional con excelente presentación personal que puede trabajar en equipo y bajo presión, con experiencia en soporte técnico y atención al usuario. También, soy alguien que desempeña su trabajo con pasión siendo proactivo, autodidacta, me encanta aprender acerca de nuevos temas y me gusta enseñar a los demás. Durante los últimos años he desarrollado mis capacidades de comunicación, negociación, he participado en gran cantidad de proyectos de telecomunicaciones y en el aseguramiento de la calidad de los mismos.
+                </p>
+            </div>
+		<h2>Contacto</h2>
+                <p><b>Email:</b> amolinar3@miumg.edu.gt</p>
+                <p><b>Celular:</b> +502 4149-8562</p>
+            </div>
+            <div class="Skills">
+                <h2>Habilidades</h2>
+                <ul>
+                    <li><b>Redes de Telecomunicaciones</b></li>
+                    <li><b>Telefonía VoIP</b></li>
+			<li><b>VMWare</b></li>
+			<li><b>Windows Server</b></li>
+			<li><b>Linux</b></li>
+			<li><b>Excel Avanzado</b></li>
+			<li><b>SQL Server</b></li>
+			<li><b>MySQL</b></li>
+			<li><b>Python</b></li>
+			<li><b>Java</b></li>
+			<li><b>HTML</b></li>
+                </ul>
+            </div>
+            <div class="Language">
+                <h2>Idiomas</h2>
+                <ul>
+                    <li>Español</li>
+                    <li>English</li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="right">
+            <div class="Experience">
+                <h2>Experiencia</h2>
+                <h3>Ingeniero de Soporte de Telecomunicaciones de preventa y postventa</h3>
+                <p>Ingenieros Integradores, S.A. 2017 - Presente</p>
+                <ul>
+                    <li>Diseño e implementación de soluciones de telecomunicaciones</li>
+                    <li>Instalación, soporte y mantenimiento de PBX y equipos de red</li>
+			<li>Planificación, preparación y ejecución de pruebas de aceptación deproyectos</li>
+                </ul>
+                <h3>Técnico de Soporte</h3>
+                <p>Fraternidad Cristiana de Guatemala 2014 - 2017</p>
+                <ul>
+                    <li>Soporte técnico al usuario</li>
+                    <li>Soporte y mantenimiento de hardware y software</li>
+                    <li>Administración de servidores Windows</li>
+                </ul>
+            </div>
+            <div class="Education">
+                <h2>Educación</h2>
+                <table>
+                    <tr>
+                        <th>Centro Educativo</th>
+                        <th>Año</th>
+                       
+                    </tr>
+                    <tr>
+                        <td>UMG - 10mo semestre de Ingeniería en Sistemas</td>
+                        <td>2019 - Presente</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>Mitel Network LMS - Mitel Technical Support</td>
+                        <td>2018 - 2020</td>
+                       
+                    </tr>
+			<tr>
+                        <td>Universidad Galileo - Diplomado Tecnología de Redes Windows</td>
+                        <td>2016</td>
+                       
+                    </tr>
+			<tr>
+                        <td>Colegio Fuente de Vida - Bachiller en Computación</td>
+                        <td>2013 - 2014</td>
+                       
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+ 
+</html>
